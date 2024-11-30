@@ -10,30 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
-#ifndef LIBFT_H
-#define LIBFT_H
-
-int	ft_isalpha(int i); 
-int	ft_isdigit(int i);
-int	ft_isalnum(int i);
-int	ft_isascii(int i);
-int	ft_isprint(int c);
-size_t	ft_strlen(const char *c);
-void	*ft_memset(void *s, int c, size_t n);
-void	ft_bzero(void *s, size_t n); 
-
-
-
-
-
-
-#endif 
-=======
-/*   Updated: 2024/11/13 16:42:07 by lduflot          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #ifndef LIBFT_H
 # define LIBFT_H
 # include "libft.h"
