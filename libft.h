@@ -68,4 +68,3 @@ void	ft_lstadd_back(t_list **lst, t_list *new);
 int		ft_lstsize(t_list *lst);
 
 #endif
->>>>>>> f15ce34 (30/11/2024 essaie push libft)
